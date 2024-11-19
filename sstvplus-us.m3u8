@@ -5,4 +5,4 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest/scale-to-width-down/200?cb=20231120040250",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0529092111-ua/master.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/800px-LiveNOW_from_FOX.png?20230828125325",LiveNOW from FOX
-https://lnc-fox-live-now.tubi.video/index.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
