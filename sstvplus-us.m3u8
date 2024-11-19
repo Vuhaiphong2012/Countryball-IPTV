@@ -24,3 +24,9 @@ https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Yahoo%21_Finance_2019.svg/revision/latest/scale-to-width-down/250?cb=20210222225337",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us" group-title="Tin tức" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-1/394288202_659791639614766_812103590508752038_n.jpg?stp=dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=y09k8ABKo8wQ7kNvgGE793H&_nc_zt=24&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AAk8tpOth8n8WkCsRCStDSi&oh=00_AYDAhDrAO2rHFz96mETAQ2OF0z5aw1bjN9PR9FU6_GL2Yg&oe=67425BBC",NEWSMAX2
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/600px-The_First_TV_logo.png?20210303011339",The First
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="TYTNetwork.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/TYT_Network_wide.png/revision/latest/scale-to-width-down/300?cb=20230731005955",TYT Network
+https://tyt-comcast-us.amagi.tv/playlist.m3u8
