@@ -1,8 +1,26 @@
 #EXTINF:-1 tvg-id="CBSNews.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/797px-CBS_News_logo_%282020%29.svg.png?20210409154106",CBS News
-https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest/scale-to-width-down/200?cb=20231120040250",NBC News Now
-https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0529092111-ua/master.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/800px-LiveNOW_from_FOX.png?20230828125325",LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg/revision/latest/scale-to-width-down/300?cb=20230104215636",Scripps News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
+#EXTINF:-1 tvg-id="FoxWeather.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/385px-Fox_Weather_logo.svg.png",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/750px-WeatherNation_Logo.svg.png?20230301000353",WeatherNation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png?20220328170300",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Current_Logo_for_CBC_News_Network.png/800px-Current_Logo_for_CBC_News_Network.png?20210918180140",CBC News International
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Current_Logo_for_CBC_News_Network.png/800px-Current_Logo_for_CBC_News_Network.png?20210918180140",CBC News International
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/300?cb=20170703173131",Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/300?cb=20170703173131",Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Yahoo%21_Finance_2019.svg/revision/latest/scale-to-width-down/250?cb=20210222225337",Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
