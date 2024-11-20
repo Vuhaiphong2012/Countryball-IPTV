@@ -31,6 +31,24 @@ https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="TYTNetwork.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/TYT_Network_wide.png/revision/latest/scale-to-width-down/300?cb=20230731005955",TYT Network
 https://tyt-comcast-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us" group-title="Tin tức" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8m9C8DzFCR_SFmbeOG3RB14LHc7ulkEh6w&s",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere.us" group-title="Phim" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/MovieSphere-UK-optimized.jpg?x17335",MovieSphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFantastic.us" group-title="Phim" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Pluto TV Fantastic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us" group-title="Phim" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Paramount_Movie_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210629162200",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="GravitasMovies.us" group-title="Phim" tvg-logo="https://i0.wp.com/www.corrientelatina.com/wp-content/uploads/2019/03/gravitas-movies.jpg?resize=1024%2C576&ssl=1",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" group-title="Phim" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e2d8c76-3276-4ac4-a4ea-fce66900add7/MT_PLEX_1920x1080_US_-_Sam_Abraham.jpg",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" group-title="Phim" tvg-logo="https://image.xumo.com/v1/channels/channel/99991336/600x337.webp?type=channelTile",Maverick Black Cinema
+https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" group-title="Phim" tvg-logo="https://store-images.s-microsoft.com/image/apps.18517.13600635989574023.75858009-7ff8-4df0-b2d3-b9e1033ea150.43c17a42-ef64-41ed-80bb-8aadd317d753",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" group-title="Truyền hình phương Tây & cổ điển" tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-westerns-logo.jpg",CINEVAULT: Westerns
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us" group-title="Truyền hình phương Tây & cổ điển" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Pluto TV Westerns
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+#EXTINF:-1 tvg-id="GritXtra.us" group-title="Truyền hình phương Tây & cổ điển" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F44c705e2-a260-439b-981e-a029134579fd%2FGritXtra_1920x1080.jpg",Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
