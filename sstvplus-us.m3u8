@@ -30,3 +30,7 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="TYTNetwork.us" group-title="Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/TYT_Network_wide.png/revision/latest/scale-to-width-down/300?cb=20230731005955",TYT Network
 https://tyt-comcast-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" group-title="Tin tức" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8m9C8DzFCR_SFmbeOG3RB14LHc7ulkEh6w&s",MovieSphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
