@@ -16,8 +16,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="Tin tức & Ý kiến" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Current_Logo_for_CBC_News_Network.png/800px-Current_Logo_for_CBC_News_Network.png?20210918180140",CBC News International
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="Tin tức & Ý kiến" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Current_Logo_for_CBC_News_Network.png/800px-Current_Logo_for_CBC_News_Network.png?20210918180140",CBC News International
-https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" group-title="Tin tức & Ý kiến" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/300?cb=20170703173131",Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" group-title="Tin tức & Ý kiến" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Yahoo%21_Finance_2019.svg/revision/latest/scale-to-width-down/250?cb=20210222225337",Yahoo Finance
