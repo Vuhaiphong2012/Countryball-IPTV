@@ -151,3 +151,24 @@ https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://pbs.twimg.com/profile_images/1169307701479989248/VGkpbncc_400x400.jpg",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
+#EXTINF:-1 tvg-id="PGATour.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/220px-PGA_Tour_logo.svg.png?20200203033845",PGA Tour
+https://apollo.production-public.tubi.io/live/ac-pga3.m3u8
+#EXTINF:-1 tvg-id="BilliardTV.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://media.licdn.com/dms/image/v2/D5612AQFO5Gy4HL1onQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680728015128?e=2147483647&v=beta&t=TzZMycD3hfmCnVtqd--vT2dnuAyKBuqVN6dp1qeprJ8",Billiard TV
+https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png?20230724154551",World Poker Tour
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3731-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=809b2f13-949f-46c5-9cc6-1f1375ea0626
+#EXTINF:-1 tvg-id="OutsideTV.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://yt3.googleusercontent.com/1j1tUjxDxZ2VJDBSrQSF2yI-jdCXMRWK_MviKX-mIkckrByLWG66AOHB4uYfkLzk_HyDPJ6ouA=s900-c-k-c0x00ffffff-no-rj",Outside
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://assets.maz.tv/5t8sh6pgehoy30v9wnivqql1ztqg-pbm.jpg",Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/600x337.webp?type=channelTile",Outdoor America
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" group-title="Thể thao mô tô" tvg-logo="https://www.topgear.com/sites/default/files/images/news-article/2019/06/9680a7fb42173b7aaddf205e7ad276d3/tgtvs27srgb.jpg",Top Gear
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MAVTVSelect.us" group-title="Thể thao mô tô" tvg-logo="https://www.performanceracing.com/sites/default/files/styles/article_full/public/import/MAV-TV-Select-new_0.jpg?itok=t27ikmB5",MAVTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNationTV.us" group-title="Thể thao mô tô" tvg-logo="https://play-lh.googleusercontent.com/E0uz5jMGXTwWw2rIBExb-8M0EHg9rsc_lAPW5pdZvSnzOkWeWlRxbwbMIYzaPdYvZw",MAVTV Select
+https://a3d7c6b7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jYV9SVE1UVkNoYW5uZWxfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us" group-title="Thể thao mô tô" tvg-logo="https://static.wixstatic.com/media/2472cb_ed6f81e7c67b4277a0b21be741bcba2a~mv2.png/v1/fill/w_560,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2472cb_ed6f81e7c67b4277a0b21be741bcba2a~mv2.png",NHRA TV
+https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
