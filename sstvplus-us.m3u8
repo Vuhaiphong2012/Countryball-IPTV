@@ -132,3 +132,18 @@ https://apollo.production-public.tubi.io/live/ac-localish.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bdcdf1e851dd5632e2c11d1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6276-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8b01914-939e-4170-9b97-5fc12ccb960d
 #EXTINF:-1 tvg-id="HSN.us" group-title="Nhà & Thực phẩm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest/scale-to-width-down/200?cb=20221114164739",HSN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f95-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fffd7f41-1254-485e-bf92-aa41b4b34c06
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/311px-MLBNetworkLogo.svg.png?20180527185038",MLB Channel
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CBS_Sports_HQ_%282021%29.svg/359px-CBS_Sports_HQ_%282021%29.svg.png?20210320070104",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-id="FoxSports.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20191122090523",FOX Sports
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/300?cb=20201108180437",beIN Sports XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg",fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Stadium_%282024%29.svg/revision/latest/scale-to-width-down/250?cb=20240319023613",Stadium
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
