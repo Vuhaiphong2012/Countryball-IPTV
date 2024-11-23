@@ -147,3 +147,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Stadium_%282024%29.svg/revision/latest/scale-to-width-down/250?cb=20240319023613",Stadium
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg",Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" group-title="Thể thao & Ngoài trời" tvg-logo="https://pbs.twimg.com/profile_images/1169307701479989248/VGkpbncc_400x400.jpg",ACC Digital Network
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
